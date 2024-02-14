@@ -1,4 +1,4 @@
-![CodeTechLab_logo](Banner_Github.png)
+![CodeTechLab_logo](Public\Banner_Github.png)
 
 <h1 align="center"> Python Decorators </h1>
 
