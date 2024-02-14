@@ -1,4 +1,4 @@
-![CodeTechLab_logo](Public\Banner_Github.png)
+<img src="https://raw.githubusercontent.com/CodeTechLab/Python_Decorators/master/Public/Banner_Github.png" >
 
 <h1 align="center"> Python Decorators </h1>
 
