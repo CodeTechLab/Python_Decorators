@@ -64,4 +64,6 @@ Python_Decorotars is [MIT licensed](./LICENSE.md).
 
 # Agradecimientos y Vínculos externos
 
+Adaptado de [Python Decorators That Can Reduce Your Code By Half](https://medium.com/@ayush-thakur02/python-decorators-that-can-reduce-your-code-by-half-b19f673bc7d8)
+
 <a href="https://www.freepik.es/icono/youtube_1384060#fromView=search&term=youtube&track=ais&page=1&position=0&uuid=577f1f20-eb6e-427a-a211-8724994bea77">Icono de Freepik</a>
