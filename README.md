@@ -51,6 +51,7 @@ Si quieres contribuir a este proyecto, te recomiendo que sigas la siguiente [Gui
 # Contacto
 
 :email: [email](mailto:tlacafv@gmail.com)
+
 ![alt text](Public/youtube_1384060(1).png) [CodeTechLab](https://www.youtube.com/channel/UCXhtdHdPiEsTm8PitJprnOQ)
 
 # Contribuidores
@@ -60,3 +61,7 @@ Si quieres contribuir a este proyecto, te recomiendo que sigas la siguiente [Gui
 # Licencia
 
 Python_Decorotars is [MIT licensed](./LICENSE.md).
+
+# Agradecimientos y Vínculos externos
+
+<a href="https://www.freepik.es/icono/youtube_1384060#fromView=search&term=youtube&track=ais&page=1&position=0&uuid=577f1f20-eb6e-427a-a211-8724994bea77">Icono de Freepik</a>
